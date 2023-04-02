@@ -10,6 +10,17 @@
 
 ### Установка VSCode на ваш ПК.
 
+1. [Зайти на сайт](https://code.visualstudio.com/download)
+2. выбрать ОС
+
+    *Пример:*
+   [Debian x64](https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64)
+3. Скачать
+4. Установить
+    ```bash
+   sudo dpkg -i ./code_1.77.0-1680085573_amd64.deb
+```
+
 ### Установка git на ваш ПК
 
 #### Первая настройка git
