@@ -40,6 +40,17 @@
 
 ## Книги и полезные ссылки по изучению git.
 
+* Git tutorial
+* Learn Git Branching
+* Try Git
+* Git wiki
+* Git Reference
+* Pro Git
+* Ry’s Git Tutorial
+* Git Immersion
+* Visualizing Git Concepts with D3
+* Getting Git Right
+
 ## Альтернативные системы контроля версий.
 
 ### Итак, какая система контроля версий подойдет для вашего проекта?
