@@ -12,6 +12,17 @@
 
 ### Установка git на ваш ПК
 
+<p>
+
+To install git on mac use following steps:
+
+* Install Homebrew
+[Homebrew](https://brew.sh)
+
+* under the command line use command described in homebrew tutorial to install git
+
+</p>
+
 #### Первая настройка git
 
 ## Создание и базовая работа с локальным репозиторием.
